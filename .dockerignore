@@ -1,0 +1,6 @@
+spec.yaml
+target/
+tests/
+Dockerfile
+scripts/
+migrations/
